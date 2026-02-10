@@ -27,7 +27,7 @@
 * 若影片無法播放：
   請使用瀏覽器的 無痕模式
 * 影片載入或播放問題說明：
-  [https://github.com/sehuav/seehua](https://github.com/sehuav/sehuav)
+  [https://github.com/sehuav/sehuav](https://github.com/sehuav/sehuav)
 * 建議使用 **海外瀏覽器 / 節點**，可獲得較佳穩定度
 * 若使用公司 / 公共 Wi-Fi：
   可能會有內容限制，請改用行動網路測試
