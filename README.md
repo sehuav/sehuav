@@ -16,7 +16,7 @@
 ## 聯絡方式（既有自動更新）
 
 * [sehuav@protonmail.com](sehuav@protonmail.com)
-* [sehuav2@protonmail.com](sehuav2@protonmail.com)
+* [sehuav2@proton.me](sehuav2@proton.me)
 
 ---
 
